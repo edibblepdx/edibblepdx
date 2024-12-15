@@ -1,7 +1,7 @@
 ## Cambrian Period Sea Creature 🐟🐠🐡
 
 Things I want to do so that I don't forget:
-- Image Compression with Singular Values
+- Image Compression with Singular Values (also SVD with sparse arrays)
 - Recursively Subdivided Planet tessellated with a height map maybe in webgl
 
 <!--
