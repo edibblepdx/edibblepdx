@@ -1,5 +1,9 @@
 ## Cambrian Period Sea Creature 🐟🐠🐡
 
+Things I want to do so that I don't forget:
+- Image Compression with Singular Values
+- Recursively Subdivided Planet tessellated with a height map maybe in webgl
+
 <!--
 **edibblepdx/edibblepdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
