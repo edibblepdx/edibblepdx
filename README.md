@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cambrian Period Sea Creature 🐟🐠🐡
 
 <!--
 **edibblepdx/edibblepdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
