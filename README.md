@@ -1,4 +1,4 @@
-## Cambrian Period Sea Creature 🐟🐠🐡
+## Cambrian Period Sea Creature 🐟 🐠 🐡
 
 Things I want to do so that I don't forget:
 - Image Compression with Singular Values (also SVD with sparse arrays)
