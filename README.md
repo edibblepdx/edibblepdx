@@ -1,9 +1,5 @@
 ## Cambrian Period Sea Creature 🐟 🐠 🐡
-
-Things I want to do so that I don't forget:
-- Image Compression with Singular Values (also SVD with sparse arrays)
-- Recursively Subdivided Planet tessellated with a height map maybe in webgl
-- Something with github pages
+📫 How to reach me: ethanrdibble@gmail.com
 
 <!--
 **edibblepdx/edibblepdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
