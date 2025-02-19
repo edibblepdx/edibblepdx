@@ -1,5 +1,5 @@
 ## Cambrian Period Sea Creature 🐟 🐠 🐡
-📫 How to reach me: ethanrdibble@gmail.com
+📫 How to reach me: ethanrdibble@gmail.com / edibble@pdx.edu
 
 <!--
 **edibblepdx/edibblepdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
