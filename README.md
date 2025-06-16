@@ -1,4 +1,4 @@
-## Cambrian Period Sea Creature 🐟 🐠 🐡
+<!-- ## Cambrian Period Sea Creature 🐟 🐠 🐡 -->
 📫 How to reach me: ethanrdibble@gmail.com — edibble@pdx.edu
 
 <div align="left">
@@ -12,6 +12,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 </div>
 
 <!--
