@@ -1,4 +1,4 @@
-<!-- ## Cambrian Period Sea Creature 🐟 🐠 🐡 -->
+## Cambrian Period Sea Creature 🐟 🐠 🐡
 📫 How to reach me: ethanrdibble@gmail.com — edibble@pdx.edu
 
 <div align="left">
