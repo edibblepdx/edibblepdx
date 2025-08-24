@@ -22,7 +22,7 @@
 </div>
 -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edibblepdx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edibblepdx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 <!--
