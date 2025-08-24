@@ -1,7 +1,7 @@
 ## Cambrian Period Sea Creature 🐟 🐠 🐡
 📫 How to reach me: ethanrdibble@gmail.com — edibble@pdx.edu
 
-I keep trying to learn new programming languages. :pig2:
+I like learning new programming languages. :pig2:
 <!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
