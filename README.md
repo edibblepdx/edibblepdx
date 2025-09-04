@@ -28,6 +28,11 @@ I like learning new programming languages. :pig2:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edibblepdx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
+## Blog Activity
+
+[A Language Analysis of Lua](https://edibblepdx.github.io/post.html?title=lua)</br>
+[How I Created a Free Static Website Using GitHub Pages](https://edibblepdx.github.io/post.html?title=howto)
+
 <!--
 **edibblepdx/edibblepdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
