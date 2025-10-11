@@ -17,6 +17,7 @@
 
 ## Blog Activity
 
+[Oxid-8: A Gentle Introduction to Rust and Emulation](https://dibble.me/post.html?title=chip8)</br>
 [A Language Analysis of Lua](https://edibblepdx.github.io/post.html?title=lua)</br>
 [How I Created a Free Static Website Using GitHub Pages](https://edibblepdx.github.io/post.html?title=howto)
 
