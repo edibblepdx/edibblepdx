@@ -4,14 +4,14 @@
 :open_book: I like learning new programming languages.
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edibblepdx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats-edibble.vercel.app/api/top-langs?username=edibblepdx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
 ## Reading List
 
 <div align="left">
   <a href="https://github.com/edibblepdx/booklist">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=edibblepdx&repo=booklist&locale=en&theme=react&hide_border=true" alt="booklist" />
+    <img src="https://github-readme-stats-edibble.vercel.app/api/pin?username=edibblepdx&repo=booklist&locale=en&theme=react&hide_border=true" alt="booklist" />
   </a>
 </div>
 
